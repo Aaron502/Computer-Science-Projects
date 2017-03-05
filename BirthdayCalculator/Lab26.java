@@ -1,6 +1,8 @@
 //Name: Aaron Wheeler
 //Period: 1A
 
+//innocuous comment
+
 import java.util.*;
 
 public class Lab26
